@@ -1,1 +1,1 @@
-pmtiles shortbread tiny vector map for testing
+tiny pmtiles shortbread vector map for testing
